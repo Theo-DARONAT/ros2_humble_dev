@@ -4,7 +4,8 @@ Run `sh build.sh`
 
 > Warning
 >
-> This image takes around one hour to build
+> This image takes around one hour to build.
+> 
 > If you don't need it, you can comment the ros2-desktop-dev
 
 Once you build this image, you don't need to re-build it every time you want to
